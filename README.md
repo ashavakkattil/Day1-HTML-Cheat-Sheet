@@ -20,7 +20,7 @@ None
 
 ## Credits
 
-* **Traversy Media - HTML Crash Course for absolute beginners ** 
+* **Traversy Media - HTML Crash Course for absolute beginners** 
 
 ## License
 
